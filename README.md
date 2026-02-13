@@ -1,3 +1,11 @@
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Quant+Trading+Strategy+Backtester" alt="Typing SVG" />
+</div>
+
+
+
+
 ## Live Demo
 
 [Quant Trading Strategy Backtester](https://quant-trading-strategy-backtester-ayoub-aguezar.streamlit.app/)

@@ -1,5 +1,5 @@
 
-# Quant Trading Strategy Backtester  
+# Quant Trading Strategy Backtester   
 
 A professional-grade quantitative trading backtesting engine built with Python and Streamlit. This application allows users to test technical analysis strategies on historical financial data with a modern, interactive dashboard.
 

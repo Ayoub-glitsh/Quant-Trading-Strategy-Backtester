@@ -84,7 +84,7 @@ The Quant Trading Strategy Backtester provides a robust platform for analyzing t
     <td align="center">Data & Analysis</td>
     <td align="center">yfinance</td>
     <td align="center">
-      <img src="assets/pulseeventsapp_logo.svg" width="35" alt="yfinance" />
+      <img src="assets/logo-light.webp" width="35" alt="yfinance" />
     </td>
   </tr>
 

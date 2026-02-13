@@ -63,15 +63,75 @@ The Quant Trading Strategy Backtester provides a robust platform for analyzing t
     <th align="center">Technology</th>
     <th align="center">Icon</th>
   </tr>
+
   <tr>
     <td align="center">Backend & Framework</td>
     <td align="center">Python 3.10+</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" alt="Python" /></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" alt="Python" />
+    </td>
   </tr>
-  <!-- repeat same align="center" for each row -->
+
+  <tr>
+    <td align="center">Backend & Framework</td>
+    <td align="center">Streamlit</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="35" alt="Streamlit" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">Data & Analysis</td>
+    <td align="center">yfinance</td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ranaroussi/yfinance/master/doc/source/_static/yfinance.svg" width="35" alt="yfinance" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">Data & Analysis</td>
+    <td align="center">pandas</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" alt="pandas" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">Data & Analysis</td>
+    <td align="center">NumPy</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" alt="NumPy" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">Visualization</td>
+    <td align="center">Plotly</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="35" alt="Plotly" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">Deployment</td>
+    <td align="center">Streamlit Cloud</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="35" alt="Streamlit Cloud" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">Version Control</td>
+    <td align="center">GitHub</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub" />
+    </td>
+  </tr>
+
 </table>
 
 </div>
+
 
 
 

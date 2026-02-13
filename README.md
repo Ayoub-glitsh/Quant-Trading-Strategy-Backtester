@@ -53,7 +53,7 @@ The Quant Trading Strategy Backtester provides a robust platform for analyzing t
 - `metrics.py`: Financial performance calculations.
 - `plots.py`: Visualization modules using Plotly.
 
-## Tech Stack
+## Tech Stack 
 
 <div align="center">
 

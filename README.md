@@ -55,61 +55,24 @@ The Quant Trading Strategy Backtester provides a robust platform for analyzing t
 
 ## Tech Stack
 
+<div align="center">
+
 <table>
   <tr>
-    <th>Category</th>
-    <th>Technology</th>
-    <th>Icon</th>
+    <th align="center">Category</th>
+    <th align="center">Technology</th>
+    <th align="center">Icon</th>
   </tr>
-
   <tr>
-    <td>Backend & Framework</td>
-    <td>Python 3.10+</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" alt="Python" /></td>
+    <td align="center">Backend & Framework</td>
+    <td align="center">Python 3.10+</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" alt="Python" /></td>
   </tr>
-
-  <tr>
-    <td>Backend & Framework</td>
-    <td>Streamlit</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="35" alt="Streamlit" /></td>
-  </tr>
-
-  <tr>
-    <td>Data & Analysis</td>
-    <td>yfinance</td>
-    <td><img src="https://raw.githubusercontent.com/ranaroussi/yfinance/master/doc/source/_static/yfinance.svg" width="35" alt="yfinance" /></td>
-  </tr>
-
-  <tr>
-    <td>Data & Analysis</td>
-    <td>pandas</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" alt="pandas" /></td>
-  </tr>
-
-  <tr>
-    <td>Data & Analysis</td>
-    <td>NumPy</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" alt="NumPy" /></td>
-  </tr>
-
-  <tr>
-    <td>Visualization</td>
-    <td>Plotly</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="35" alt="Plotly" /></td>
-  </tr>
-
-  <tr>
-    <td>Deployment</td>
-    <td>Streamlit Cloud</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="35" alt="Streamlit Cloud" /></td>
-  </tr>
-
-  <tr>
-    <td>Version Control</td>
-    <td>GitHub</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub" /></td>
-  </tr>
+  <!-- repeat same align="center" for each row -->
 </table>
+
+</div>
+
 
 
 

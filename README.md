@@ -4,6 +4,11 @@
 </div>
 
 
+<div align="center">
+  <img src="assets/screenshot.png" alt="App Screenshot" width="800"/>
+</div>
+
+
 
 
 ## Live Demo
